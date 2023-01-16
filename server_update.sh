@@ -2,7 +2,7 @@
 
 install_run_start_apache() {
 
-#update
+#update system
 sudo apt-get update
 
 # install Apache server
